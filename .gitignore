@@ -1,0 +1,14 @@
+# MNIST data: regenerated with data_mnist.py, exceeds GitHub's 100 MB file limit
+*.mat
+
+# Build outputs
+*.exe
+*.o
+*.obj
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
